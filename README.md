@@ -1,5 +1,5 @@
 # explainableDL
-** Due to the confidentiality regulations, only part of the code can be displayed.
+**Due to the confidentiality regulations, only part of the code can be displayed.
 ## Dataset
 3D PET images
 ## Input Pipeline
