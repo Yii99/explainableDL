@@ -2,7 +2,7 @@
 **Due to the confidentiality regulations, only part of the code can be displayed.**
 ## Dataset
 3D PET images
-## Input Pipeline
+## Pipeline
 ![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/flow.png)
 ### Packages 
 * Tensorflow 2.0
