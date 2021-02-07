@@ -59,5 +59,4 @@ run full pipeline to complete directly all steps and get the result.
 ![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/tcdc.png)
 ![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/cm.png)
 ### Explainable Results 
-Here, we only show an example of our results (the saliency map of the liver)
-![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/total_1.png)
+Because the dataset is confidential, so the explainable deep learning results can't be shown.
