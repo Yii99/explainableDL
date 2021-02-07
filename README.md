@@ -23,7 +23,7 @@
 #### Image Denoising
 * run image_denoising to denoise the image
 ### Model Establishing
-![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/Att-Unet.pdf)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/Att-Unet.png)
 ### Training
 run training.py, set the following parameters:
 * path: the directory where the code lies
