@@ -3,7 +3,7 @@
 ## Dataset
 3D PET images
 ## Input Pipeline
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/flow.png)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/flow.png)
 ### Packages 
 * Tensorflow 2.0
 * NumPy v.1.17.3
@@ -23,7 +23,7 @@
 #### Image Denoising
 * run image_denoising to denoise the image
 ### Model Establishing
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/Att-Unet.pdf)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/Att-Unet.pdf)
 ### Training
 run training.py, set the following parameters:
 * path: the directory where the code lies
@@ -52,12 +52,12 @@ run full pipeline to complete directly all steps and get the result.
 ## Result
 ### Training Performance
 #### Loss
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/loss.png)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/loss.png)
 #### Dice coefficient
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/dc.png)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/dc.png)
 ### Evaluation
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/tcdc.png)
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/cm.png)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/tcdc.png)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/cm.png)
 ### Explainable Results 
 Here, we only show an example of our results (the saliency map of the liver)
-![accuracy](https://github.com/Yii99/explainableDL/tree/main/fig/total_1.png)
+![accuracy](https://github.com/Yii99/explainableDL/blob/main/fig/total_1.png)
